@@ -1,4 +1,4 @@
-# 🚀 FTTH Downstream Address Selector
+# 🚀 FTTH DownstreamTracer
 
 Automate downstream address selection in FTTH design — save time, improve accuracy.
 
@@ -10,7 +10,7 @@ Manually selecting addresses multiple times with the Selection Feature tool can 
 
 # ⚡ What This Tool Does
 
-This tool automates the selection of downstream addresses starting from a clicked point on the network. It helps you:
+This tool automates the selection of downstream points starting from a clicked point on the network. It helps you:
 
 ⏱ Save time — avoid repeated manual selections
 
