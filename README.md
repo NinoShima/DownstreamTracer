@@ -19,3 +19,16 @@ This tool automates the selection of downstream points starting from a clicked p
 🛠 Streamline workflows — make FTTH design more efficient
 
 With this tool, FTTH designers can focus on network planning rather than repetitive selection tasks.
+
+# 🛠 Installation
+Run DownstreamTracer.py in QGis Python console
+
+# 🧩 Usage
+
+1. Load the required layers — Make sure your QGIS project has loaded the point and line layers you want to analyze.
+
+2. Run the script — Open the QGIS Python Console and execute DownstreamTracer.py.
+
+3. Select layers — Choose the point and line layers from the dialog.
+
+4. Click a point to trace — Click on an interested point on the map, and the tool will automatically display the downstream results.
